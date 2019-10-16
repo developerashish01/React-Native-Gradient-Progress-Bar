@@ -12,7 +12,7 @@ Sample code for react native gradient progress bar with animation
 ```
 <CustomAnimationProgress
  percent={60}
- width={200} //numberic only
+ width={200} //numeric only
  height={14}
  />
 
