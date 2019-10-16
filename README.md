@@ -7,6 +7,16 @@ Sample code for react native gradient progress bar with animation
 [react-native-svg](https://github.com/react-native-community/react-native-svg)
 
 
+## Sample
+
+```
+                    <CustomAnimationProgress
+                        percent={item.score}
+                        width={deviceWidth - 120}
+                        height={14}
+                    />
+
+```
 
 ## License
 
