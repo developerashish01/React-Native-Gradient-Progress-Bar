@@ -4,7 +4,7 @@ Sample code for react native gradient progress bar with animation
 
 
 # Library
-[contact me](mailto:developer.ashish01@gmail.com)
+[react-native-svg](https://github.com/react-native-community/react-native-svg)
 
 
 
